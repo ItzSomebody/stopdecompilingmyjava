@@ -17,18 +17,20 @@ FernFlower is unable to parse the stack correctly and displays an incorrect bitw
 #### Scoring
 Consistency: 10  
 Practicality: 7  
-Total score: 0.80  
+Decompiler Inaccuracy: 6  
+Total score: 0.77  
 
 #### Patch Date
 N/A
 
 ## JD-GUI
-JD-GUI is unable to parse the stack correctly and displays a significant amount of confusing code.
+JD-GUI is unable to parse the stack correctly and displays a significant amount of confusing and illegal code.
 
 #### Scoring
 Consistency: 10  
 Practicality: 8  
-Total score: 0.80  
+Decompiler Inaccuracy: 8  
+Total score: 0.87  
 
 #### Patch Date
 N/A

@@ -11,7 +11,7 @@ samczun's repository and this one for decompiler vulnerabilities are:
 Scoring for decompiler bugs/vulnerabilities is per-decompiler/tool and is split up into the following several categories:
 * **Consistency** - On a scale of 1 to 10, how frequently does this bug/vulnerability occur in various samples? 10 being always, 1 being now and then.
 * **Practicality** - On a scale of 1 to 10, how practical is this kind of bug/vulnerability to use/implement? 10 being easy to implement and use, 1 being extremely difficult to implement or use correctly.
-* **Decompiler Inaccuracy** - On a scale of 1 to 10, how inaccurately does a decompiler display the intent of the method? 10 being a completely wrong result, 1 being easy-to-understand. (Crashing the decompiler counts as 5) This scoring is omitted for non-decompiler tools.
+* **Decompiler Inaccuracy** - On a scale of 1 to 10, how inaccurately does a decompiler display the intent of the method? 10 being a completely wrong result, 1 being an unaffected result. (Crashing the decompiler counts as 5) This scoring is omitted for non-decompiler tools.
 * **Total score** - Total score is calculated by `(Consistency score + Practicality score + Decompiler Inaccuracy score) / (Maximum score)` rounded off to two decimals.
 
 ## Entry format
