@@ -22,3 +22,14 @@ Total score: 0.75
 
 #### Patch Date
 N/A
+
+## Bytecode-Viewer
+Bytecode-Viewer skips loading and saving the resources due to invalid classes. This causes said resources to be removed from the jar archive on a save.
+
+#### Scoring
+Consistency: 10  
+Practicality: 5  
+Total score: 0.75  
+
+#### Patch Date
+N/A
