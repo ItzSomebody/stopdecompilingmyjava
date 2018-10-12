@@ -1,35 +1,13 @@
 ## Entry
-Name of non-class resources ends in .class.
+Sets the path of a class to META-INF/\u0000/ which is a method of hiding classes against file archivers popularized by samczsun. According to samczsun, this also causes issues with Java 7, so you were warned.
 
-## JByteEdit
-JByteEdit refuses to load the jar due to invalid classes.
+## Non-Java Archivers
+Non-Java archivers (7zip, WinRAR, Windows, etc.) are unable to display the classes.
 
 #### Scoring
 Consistency: 10  
 Practicality: 6  
 Total score: 0.80  
-
-#### Patch Date
-N/A
-
-## JByteMod-Beta
-JByteMod-Beta skips loading and saving the resources due to invalid classes. This causes said resources to be removed from the jar archive on a save.
-
-#### Scoring
-Consistency: 10  
-Practicality: 5  
-Total score: 0.75  
-
-#### Patch Date
-N/A
-
-## Bytecode-Viewer
-Bytecode-Viewer skips loading and saving the resources due to invalid classes. This causes said resources to be removed from the jar archive on a save.
-
-#### Scoring
-Consistency: 10  
-Practicality: 5  
-Total score: 0.75  
 
 #### Patch Date
 N/A
