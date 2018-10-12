@@ -17,7 +17,7 @@ Scoring for decompiler bugs/vulnerabilities is per-decompiler/tool and is split 
 ## Entry format
 
 ```md
-## Entry name (Should be in the format Entry-XXX.md)
+# Entry name (Should be in the format Entry-XXX.md)
 Put description of bug / vulnerability / obfuscation technique here.
 
 ## Decompiler / Tool name (Do this for each tool this targets)
