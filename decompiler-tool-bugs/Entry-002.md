@@ -13,7 +13,8 @@ Total score: 0.80
 N/A
 
 ## JByteMod-Beta
-JByteMod-Beta skips loading and saving the resources due to invalid classes. This causes said resources to be removed from the jar archive on a save.
+JByteMod-Beta skips loading and saving the resources due to invalid classes. This causes said
+resources to be removed from the jar archive on a save.
 
 #### Scoring
 Consistency: 10  
@@ -24,7 +25,8 @@ Total score: 0.75
 N/A
 
 ## Bytecode-Viewer
-Bytecode-Viewer skips loading and saving the resources due to invalid classes. This causes said resources to be removed from the jar archive on a save.
+Bytecode-Viewer skips loading and saving the resources due to invalid classes. This causes said
+resources to be removed from the jar archive on a save.
 
 #### Scoring
 Consistency: 10  

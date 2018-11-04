@@ -1,5 +1,6 @@
 # Entry-004
-Integers are split into XOR operations and is manipulated on the stack using `swap`, `dup_x1` and `pop2`.
+Integers are split into XOR operations and is manipulated on the stack using `swap`, `dup_x1` and
+`pop2`.
 
 ```
 L86:    ldc -893664644 ; Stack = [-893664644]
@@ -12,7 +13,8 @@ L95:    ixor           ; Stack = [0]
 ```
 
 ## FernFlower
-FernFlower is unable to parse the stack correctly and displays an incorrect bitwise evaluation and/or tries to invoke on integers for some weird reason.
+FernFlower is unable to parse the stack correctly and displays an incorrect bitwise evaluation
+and/or tries to invoke on integers for some weird reason.
 
 #### Scoring
 Consistency: 10  
@@ -24,7 +26,8 @@ Total score: 0.77
 N/A
 
 ## JD-GUI
-JD-GUI is unable to parse the stack correctly and displays a significant amount of confusing and illegal code.
+JD-GUI is unable to parse the stack correctly and displays a significant amount of confusing
+and illegal code.
 
 #### Scoring
 Consistency: 10  

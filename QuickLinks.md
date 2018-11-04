@@ -17,6 +17,16 @@ Provides links specific to tools.
 
 ## JD-GUI
 [Entry-004](decompiler-tool-bugs/Entry-004.md)
+[Entry-005](decompiler-tool-bugs/Entry-005.md)
 
 ## FernFlower
 [Entry-004](decompiler-tool-bugs/Entry-004.md)
+
+## Procyon
+[Entry-005](decompiler-tool-bugs/Entry-005.md)
+
+## CFR
+[Entry-005](decompiler-tool-bugs/Entry-005.md)
+
+## javap
+[Entry-005](decompiler-tool-bugs/Entry-005.md)
