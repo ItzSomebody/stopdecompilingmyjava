@@ -37,7 +37,7 @@ Decompiler Inaccuracy: 5
 Total score: 0.67  
 
 #### Patch Date
-N/A
+2018-12-14
 
 ## javap
 javap is unable to disassemble the class and crashes.
