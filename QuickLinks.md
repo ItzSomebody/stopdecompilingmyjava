@@ -31,3 +31,6 @@ Provides links specific to tools.
 
 ## javap
 [Entry-005](decompiler-tool-bugs/Entry-005/Entry.md)
+
+## Krakatau
+[Entry-007](decompiler-tool-bugs/Entry-007/Entry.md)
