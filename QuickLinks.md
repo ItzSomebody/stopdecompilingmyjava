@@ -18,12 +18,16 @@ Provides links specific to tools.
 ## [JD-GUI](http://jd.benow.ca/)
 [Entry-004](decompiler-tool-bugs/Entry-004/Entry.md)
 [Entry-005](decompiler-tool-bugs/Entry-005/Entry.md)
+[Entry-008](decompiler-tool-bugs/Entry-008/Entry.md)
+[Entry-009](decompiler-tool-bugs/Entry-009/Entry.md)
 
 ## [FernFlower](https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine)
 [Entry-004](decompiler-tool-bugs/Entry-004/Entry.md)
+[Entry-009](decompiler-tool-bugs/Entry-009/Entry.md)
 
 ## [Procyon](https://bitbucket.org/mstrobel/procyon/overview)
 [Entry-005](decompiler-tool-bugs/Entry-005/Entry.md)
+[Entry-009](decompiler-tool-bugs/Entry-009/Entry.md)
 
 ## [CFR](http://www.benf.org/other/cfr/)
 [Entry-005](decompiler-tool-bugs/Entry-005/Entry.md)

@@ -14,3 +14,15 @@ Total score: 0.67
 
 #### Patch Date
 N/A
+
+## JD-GUI
+JD-GUI decompiles the method completely wrong. The result is a behavior change and unreachable code.
+
+#### Scoring
+Consistency: 10  
+Practicality: 3  
+Decompiler Inaccuracy: 9  
+Total score: 0.73  
+
+#### Patch Date
+N/A
