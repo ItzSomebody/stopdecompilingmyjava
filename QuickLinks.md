@@ -28,7 +28,7 @@ Provides links specific to tools.
 ## [CFR](http://www.benf.org/other/cfr/)
 [Entry-005](decompiler-tool-bugs/Entry-005/Entry.md)
 [Entry-006](decompiler-tool-bugs/Entry-006/Entry.md)
-[Entry-008](decompiler-tool-bugs/Entry-006/Entry.md)
+[Entry-008](decompiler-tool-bugs/Entry-008/Entry.md)
 
 ## javap
 [Entry-005](decompiler-tool-bugs/Entry-005/Entry.md)
