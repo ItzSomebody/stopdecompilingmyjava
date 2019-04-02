@@ -12,7 +12,7 @@ handler class.
 Consistency: 10  
 Practicality: 3  
 Decompiler Inaccuracy: 5  
-Total score: 0.67  
+Total score: 0.60  
 
 #### Patch Date
 N/A
