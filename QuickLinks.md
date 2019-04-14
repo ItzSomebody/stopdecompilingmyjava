@@ -5,9 +5,11 @@ Provides links specific to tools.
 ## [Bytecode-Viewer](https://github.com/Konloch/bytecode-viewer)
 [Entry-001](decompiler-tool-bugs/Entry-001/Entry.md)
 [Entry-002](decompiler-tool-bugs/Entry-002/Entry.md)
+[Entry-010](decompiler-tool-bugs/Entry-010/Entry.md)
 
 ## [Helios](https://github.com/helios-decompiler/standalone-app)
 [Entry-001](decompiler-tool-bugs/Entry-001/Entry.md)
+[Entry-010](decompiler-tool-bugs/Entry-010/Entry.md)
 
 ## [JByteEdit](https://github.com/Eyremba/JBytedit)
 [Entry-002](decompiler-tool-bugs/Entry-002/Entry.md)
@@ -39,3 +41,4 @@ Provides links specific to tools.
 
 ## [Krakatau](https://github.com/Storyyeller/Krakatau)
 [Entry-007](decompiler-tool-bugs/Entry-007/Entry.md)
+[Entry-010](decompiler-tool-bugs/Entry-010/Entry.md)
