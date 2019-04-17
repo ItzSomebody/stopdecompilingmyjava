@@ -13,8 +13,8 @@ L95:    ixor           ; Stack = [0]
 ```
 
 ## FernFlower
-FernFlower is unable to parse the stack correctly and displays an incorrect bitwise evaluation
-and/or tries to invoke on integers for some weird reason on larger samples.
+FernFlower is unable to parse the stack correctly resulting in changed code and sometimes illegal
+code.
 
 #### Scoring
 Consistency: 10  
@@ -26,8 +26,7 @@ Total score: 0.77
 Unknown
 
 ## JD-GUI
-JD-GUI is unable to parse the stack correctly and displays a significant amount of confusing
-and illegal code on larger samples.
+JD-GUI is unable to parse the stack correctly resulting in changed and often illegal code.
 
 #### Scoring
 Consistency: 10  

@@ -6,7 +6,7 @@ methodVisitor.visitInvokeDynamicInsn("example", "(Ljava/lang/Object;Ljava/lang/O
 ```
 
 ## CFR
-CFR is unable to decompile the method.
+CFR fails on decompiling the methods and leaves a relevant error in the method body.
 
 #### Scoring
 Consistency: 10  

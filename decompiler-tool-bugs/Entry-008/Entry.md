@@ -16,7 +16,8 @@ Total score: 0.67
 N/A
 
 ## JD-GUI
-JD-GUI decompiles the method completely wrong. The result is a behavior change and unreachable code.
+JD-GUI decompiles the method completely wrong. The result is a behavior change
+and unreachable code.
 
 #### Scoring
 Consistency: 10  

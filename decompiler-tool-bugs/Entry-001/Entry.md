@@ -1,8 +1,9 @@
 # Entry-001
-Sets jar archive byte offsets of 0x6 and 0x7 to 0x0 and 0x8 to 0x8.
+Modifies MANIFEST.MF byte headers by setting jar archive byte offsets of 0x6
+and 0x7 to 0x0 and 0x8 to 0x8.
 
 ## Bytecode-Viewer
-Bytecode-Viewer is unable to open the jar.
+Bytecode-Viewer crashes upon trying to load the jar entries.
 
 #### Scoring
 Consistency: 10  
@@ -13,7 +14,7 @@ Total score: 0.85
 2019-04-17
 
 ## Helios
-Helios is able to unable to open the jar.
+Helios crashes upon trying to load the jar entries.
 
 #### Scoring
 Consistency: 10  

@@ -4,7 +4,7 @@ to garbage data, multiple decompilers will crash on attemping to decompile. This
 random signature-read errors by the JVM.
 
 ## JD-GUI
-JD-GUI is unable to decompile the class and crashes.
+JD-GUI crashes on attempting to decompile the class.
 
 #### Scoring
 Consistency: 10  
@@ -16,7 +16,7 @@ Total score: 0.67
 N/A
 
 ## Procyon
-Procyon is unable to decompile the class and crashes.
+Procyon crashes on attempting to decompile the class.
 
 #### Scoring
 Consistency: 10  
@@ -28,7 +28,7 @@ Total score: 0.67
 N/A
 
 ## CFR
-CFR is unable to decompile the class and crashes.
+CFR crashes on attempting to decompile the class.
 
 #### Scoring
 Consistency: 10  
@@ -40,7 +40,7 @@ Total score: 0.67
 2018-12-14
 
 ## javap
-javap is unable to disassemble the class and crashes.
+javap crashes on attempting to disassemble the class.
 
 #### Scoring
 Consistency: 10  

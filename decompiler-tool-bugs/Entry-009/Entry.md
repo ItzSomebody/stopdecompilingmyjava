@@ -1,11 +1,10 @@
 # Entry-009
-Inserts a try-catch block which catches everything. It will always delegate the
-control flow into a specific region of code.
+Inserts a try-catch block with a handler type of null (used to implement finally
+keyword). It will always delegate the control flow into a specific region of code.
 
 ## Procyon
-Procyon does not recognize the non-javac-like use of a null catch type (used to
-implement the finally keyword). This results in inaccurate code due to the
-exception not being handled correctly.
+Procyon does not recognize the non-javac-like use of a null catch type. This
+results in inaccurate code due to the exception not being handled correctly.
 
 #### Scoring
 Consistency: 10  
@@ -17,9 +16,8 @@ Total score: 0.67
 N/A
 
 ## FernFlower
-FernFlower does not recognize the non-javac-like use of a null catch type (used to
-implement the finally keyword). This results in inaccurate code due to the
-exception not being handled correctly.
+FernFlower does not recognize the non-javac-like use of a null catch type.
+This results in inaccurate code due to the exception not being handled correctly.
 
 #### Scoring
 Consistency: 10  
@@ -31,9 +29,8 @@ Total score: 0.67
 N/A
 
 ## JD-GUI
-JD-GUI does not recognize the non-javac-like use of a null catch type (used to
-implement the finally keyword). This results in completely wrong code which is
-in no way semantically equivalent.
+JD-GUI does not recognize the non-javac-like use of a null catch type. This
+results in completely wrong code which is in no way semantically equivalent.
 
 #### Scoring
 Consistency: 10  
