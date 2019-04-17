@@ -23,7 +23,7 @@ Decompiler Inaccuracy: 6
 Total score: 0.77  
 
 #### Patch Date
-N/A
+Unknown
 
 ## JD-GUI
 JD-GUI is unable to parse the stack correctly and displays a significant amount of confusing

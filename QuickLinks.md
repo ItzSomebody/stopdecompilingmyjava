@@ -24,7 +24,7 @@ Provides links specific to tools.
 [Entry-009](decompiler-tool-bugs/Entry-009/Entry.md)  
 
 ## [FernFlower](https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine)
-[Entry-004](decompiler-tool-bugs/Entry-004/Entry.md)  
+[Entry-004](decompiler-tool-bugs/Entry-004/Entry.md) (PATCHED)  
 [Entry-009](decompiler-tool-bugs/Entry-009/Entry.md)  
 
 ## [Procyon](https://bitbucket.org/mstrobel/procyon/overview)
