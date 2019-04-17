@@ -24,7 +24,7 @@ Decompiler Inaccuracy: 5
 Total score: 0.73  
 
 #### Patch Date
-N/A
+2019-04-17
 
 ## Helios
 Helios will crash on attempting to load the JAR.

@@ -10,7 +10,7 @@ Practicality: 7
 Total score: 0.85  
 
 #### Patch Date
-N/A
+2019-04-17
 
 ## Helios
 Helios is able to unable to open the jar.
