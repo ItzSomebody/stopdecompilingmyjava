@@ -28,7 +28,7 @@ Total score: 0.67
 N/A
 
 ## CFR
-CFR crashes on attempting to decompile the class.
+CFR &lt; 0.138 crashes on attempting to decompile the class.
 
 #### Scoring
 Consistency: 10  
