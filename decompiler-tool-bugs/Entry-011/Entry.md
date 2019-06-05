@@ -34,7 +34,7 @@ However, pre-Java 1 classfiles do not. In pre-Java 1, the max_stack, max_locals,
 ```c
 Code_attribute {
     u2 attribute_name_index;
-    u4 attribute_length;
+    u2 attribute_length;
     u1 max_stack; // uint8_t vs. uint16_t
     u1 max_locals; // uint8_t vs. uint16_t
     u2 code_length; // uint16_t vs. uint32_t
