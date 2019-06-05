@@ -27,8 +27,8 @@ Provides links specific to tools.
 
 ## [JD-GUI](http://jd.benow.ca/)
 
-[Entry-004](decompiler-tool-bugs/Entry-004/Entry.md) (PATCHED)  
-[Entry-005](decompiler-tool-bugs/Entry-005/Entry.md)  
+[Entry-004](decompiler-tool-bugs/Entry-004/Entry.md)  
+[Entry-005](decompiler-tool-bugs/Entry-005/Entry.md) (PATCHED)  
 [Entry-008](decompiler-tool-bugs/Entry-008/Entry.md)  
 [Entry-009](decompiler-tool-bugs/Entry-009/Entry.md)  
 [Entry-011](decompiler-tool-bugs/Entry-011/Entry.md)  
