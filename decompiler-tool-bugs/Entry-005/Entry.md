@@ -13,7 +13,7 @@ Decompiler Inaccuracy: 5
 Total score: 0.67  
 
 #### Patch Date
-N/A
+2019-05-13
 
 ## Procyon
 Procyon crashes on attempting to decompile the class.
