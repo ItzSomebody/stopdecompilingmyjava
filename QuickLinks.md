@@ -7,7 +7,7 @@ Provides links specific to tools.
 [Entry-001](decompiler-tool-bugs/Entry-001/Entry.md) (PATCHED)  
 [Entry-002](decompiler-tool-bugs/Entry-002/Entry.md) (PATCHED)  
 [Entry-010](decompiler-tool-bugs/Entry-010/Entry.md) (PATCHED)  
-[Entry-011](decompiler-tool-bugs/Entry-011/Entry.md)  
+[Entry-011](decompiler-tool-bugs/Entry-011/Entry.md) (PATCHED)  
 
 ## [Helios](https://github.com/helios-decompiler/standalone-app)
 

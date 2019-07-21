@@ -155,7 +155,7 @@ Total score: 0.67
 
 #### Patch Date
 
-N/A
+2019-06-14
 
 ## JByteEdit
 
