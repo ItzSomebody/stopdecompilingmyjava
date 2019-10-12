@@ -15,4 +15,4 @@ Decompiler Inaccuracy: 5
 Total score: 0.60  
 
 #### Patch Date
-N/A
+2019-6-11
