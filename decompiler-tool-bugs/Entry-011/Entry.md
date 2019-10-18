@@ -281,6 +281,8 @@ N/A
 
 Javap parses code attribute incorrectly leading to a disassembly fail.
 
+https://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8232598
+
 #### Scoring
 
 Consistency: 10  
