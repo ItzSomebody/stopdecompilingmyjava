@@ -1,4 +1,4 @@
-# Entry-001
+# entry-001
 Modifies MANIFEST.MF byte headers by setting jar archive byte offsets of 0x6
 and 0x7 to 0x0 and 0x8 to 0x8.
 

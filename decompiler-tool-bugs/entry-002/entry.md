@@ -1,4 +1,4 @@
-# Entry-002
+# entry-002
 Name of non-class resources ends in .class.
 
 ## JByteEdit

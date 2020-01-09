@@ -1,4 +1,4 @@
-# Entry-007
+# entry-007
 Wraps the handler type class name with `L` and `;` as found
 [here](https://github.com/ItzSomebody/Radon/pull/60). This is verified to cause
 Java 11 to refuse to load the class. Known to work all the way up to Java 8

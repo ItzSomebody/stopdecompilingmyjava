@@ -1,4 +1,4 @@
-# Entry-008
+# entry-008
 Splits a block of code into two reordered sub blocks and wraps the first block
 in a fake trap.
 

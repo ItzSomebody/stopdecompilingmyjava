@@ -1,4 +1,4 @@
-# Entry-010
+# entry-010
 Sets an invalid CRC for a ZipEntry. Java does not verify the CRC of a ZipEntry
 allowing abuse to prevent zip extraction.
 

@@ -1,4 +1,4 @@
-# Entry-006
+# entry-006
 Presents a primitive integer as an Object to a bootstrap method parameter via an invokedynamic opcode.
 
 ```java

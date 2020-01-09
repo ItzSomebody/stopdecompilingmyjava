@@ -1,4 +1,4 @@
-# Entry-005
+# entry-005
 This is a pretty well known one. When the class signature (which is how generics are stored) is set
 to garbage data, multiple decompilers will crash on attemping to decompile. This is known to cause
 random signature-read errors by the JVM.

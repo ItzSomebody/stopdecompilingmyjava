@@ -1,4 +1,4 @@
-# Entry-004
+# entry-004
 Integers are split into XOR operations and is manipulated on the stack using `swap`, `dup_x1` and
 `pop2`.
 

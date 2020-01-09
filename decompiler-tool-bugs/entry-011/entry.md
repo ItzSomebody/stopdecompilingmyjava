@@ -1,4 +1,6 @@
-# Entry-011
+# entry-011
+
+PSA: This trick will not work on newer JVM versions, see this [OpenJDK bug report](https://bugs.openjdk.java.net/browse/JDK-8232890) and this [ASM issue report](https://gitlab.ow2.org/asm/asm/issues/317888)
 
 See: https://twitter.com/LeeAtBenf/status/1136035843955732486
 
