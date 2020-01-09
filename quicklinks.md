@@ -28,6 +28,9 @@ Provides links specific to tools.
 [entry-011](decompiler-tool-bugs/entry-011/entry.md)  
 [entry-012](decompiler-tool-bugs/entry-012/entry.md)  
 
+## [JADX](https://github.com/skylot/jadx)
+[entry-013](decompiler-tool-bugs/entry-013/entry.md)  
+
 ## [JD-GUI](http://jd.benow.ca/)
 
 [entry-004](decompiler-tool-bugs/entry-004/entry.md)  
@@ -35,6 +38,7 @@ Provides links specific to tools.
 [entry-008](decompiler-tool-bugs/entry-008/entry.md)  
 [entry-009](decompiler-tool-bugs/entry-009/entry.md)  
 [entry-011](decompiler-tool-bugs/entry-011/entry.md)  
+[entry-013](decompiler-tool-bugs/entry-013/entry.md)  
 
 ## [FernFlower](https://github.com/JetBrains/intellij-community/tree/master/plugins/java-decompiler/engine)
 
@@ -47,12 +51,14 @@ Provides links specific to tools.
 [entry-005](decompiler-tool-bugs/entry-005/entry.md)  
 [entry-009](decompiler-tool-bugs/entry-009/entry.md)  
 [entry-011](decompiler-tool-bugs/entry-011/entry.md)  
+[entry-013](decompiler-tool-bugs/entry-013/entry.md)  
 
 ## [CFR](http://www.benf.org/other/cfr/)
 
 [entry-005](decompiler-tool-bugs/entry-005/entry.md) (PATCHED)  
 [entry-006](decompiler-tool-bugs/entry-006/entry.md) (PATCHED)  
 [entry-008](decompiler-tool-bugs/entry-008/entry.md) (PATCHED)  
+[entry-013](decompiler-tool-bugs/entry-013/entry.md)  
 
 ## javap
 
