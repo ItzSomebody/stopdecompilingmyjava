@@ -8,6 +8,7 @@ Provides links specific to tools.
 [entry-002](decompiler-tool-bugs/entry-002/entry.md) (PATCHED)  
 [entry-010](decompiler-tool-bugs/entry-010/entry.md) (PATCHED)  
 [entry-011](decompiler-tool-bugs/entry-011/entry.md) (PATCHED)  
+[entry-012](decompiler-tool-bugs/entry-012/entry.md)  
 
 ## [Helios](https://github.com/helios-decompiler/standalone-app)
 
@@ -19,11 +20,13 @@ Provides links specific to tools.
 
 [entry-002](decompiler-tool-bugs/entry-002/entry.md)  
 [entry-011](decompiler-tool-bugs/entry-011/entry.md)  
+[entry-012](decompiler-tool-bugs/entry-012/entry.md)  
 
 ## [JByteMod-Beta](https://github.com/GraxCode/JByteMod-Beta/releases)
 
 [entry-002](decompiler-tool-bugs/entry-002/entry.md)  
 [entry-011](decompiler-tool-bugs/entry-011/entry.md)  
+[entry-012](decompiler-tool-bugs/entry-012/entry.md)  
 
 ## [JD-GUI](http://jd.benow.ca/)
 
