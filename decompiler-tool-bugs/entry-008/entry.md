@@ -6,6 +6,8 @@ in a fake trap.
 CFR decompiles the method but merges the second block into the try block
 with the first block resulting in behavior change.
 
+Issue link: https://github.com/leibnitz27/cfr/issues/4
+
 #### Scoring
 Consistency: 10  
 Practicality: 3  
@@ -13,7 +15,7 @@ Decompiler Inaccuracy: 7
 Total score: 0.67  
 
 #### Patch Date
-N/A
+2019-06-13
 
 ## JD-GUI
 JD-GUI decompiles the method completely wrong. The result is a behavior change

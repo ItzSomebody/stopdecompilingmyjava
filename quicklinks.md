@@ -52,7 +52,7 @@ Provides links specific to tools.
 
 [entry-005](decompiler-tool-bugs/entry-005/entry.md) (PATCHED)  
 [entry-006](decompiler-tool-bugs/entry-006/entry.md) (PATCHED)  
-[entry-008](decompiler-tool-bugs/entry-008/entry.md)  
+[entry-008](decompiler-tool-bugs/entry-008/entry.md) (PATCHED)  
 
 ## javap
 
