@@ -11,28 +11,44 @@ L92:    pop2           ; Stack = [-893664644]
 L93:    ldc -893664644 ; Stack = [-893664644, -893664644]
 L95:    ixor           ; Stack = [0]
 ```
+In the PoC linked with the entry, this should decompile to
+```java
+public class Example {
+    public static void main(String[] var0) {
+        System.out.println(-893664644 ^ -893664644);
+    }
+}
+```
 
 ## FernFlower
 FernFlower is unable to parse the stack correctly resulting in changed code and sometimes illegal
-code.
-
-#### Scoring
-Consistency: 10  
-Practicality: 7  
-Decompiler Inaccuracy: 6  
-Total score: 0.77  
+code. Decompiled result of poc.jar:
+```java
+public class Example {
+   public static void main(String[] var0) {
+      int var10001 = -893664644;
+      System.out.println(-893664644 ^ 2030482428);
+   }
+}
+```
 
 #### Patch Date
 Unknown
 
 ## JD-GUI
-JD-GUI is unable to parse the stack correctly resulting in changed and often illegal code.
+JD-GUI is unable to parse the stack correctly resulting in changed and, in some cases, illegal code. Decompiled result of poc.jar:
+```java
+import java.io.PrintStream;
 
-#### Scoring
-Consistency: 10  
-Practicality: 8  
-Decompiler Inaccuracy: 8  
-Total score: 0.87  
+public class Example
+{
+  public static void main(String[] paramArrayOfString)
+  {
+    -893664644;
+    System.out.println(0x7906B3FC ^ 0xCABBC27C);
+  }
+}
+```
 
 #### Patch Date
 N/A

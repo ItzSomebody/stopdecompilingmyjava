@@ -8,24 +8,35 @@ with the first block resulting in behavior change.
 
 Issue link: https://github.com/leibnitz27/cfr/issues/4
 
-#### Scoring
-Consistency: 10  
-Practicality: 3  
-Decompiler Inaccuracy: 7  
-Total score: 0.67  
-
 #### Patch Date
 2019-06-13
 
 ## JD-GUI
-JD-GUI decompiles the method completely wrong. The result is a behavior change
-and unreachable code.
+JD-GUI decompiles the method completely wrong. The result is a behavior change and unreachable code. Decompiled result of poc.jar:
+```java
+import java.io.PrintStream;
 
-#### Scoring
-Consistency: 10  
-Practicality: 3  
-Decompiler Inaccuracy: 9  
-Total score: 0.73  
+public class Test
+{
+  public static void main(String[] paramArrayOfString)
+  {
+    for (;;)
+    {
+      System.out.println("Hello #2");
+      return;
+      try
+      {
+        System.out.println("Hello #1");
+        null;
+      }
+      catch (FakeException localFakeException)
+      {
+        return;
+      }
+    }
+  }
+}
+```
 
 #### Patch Date
 N/A

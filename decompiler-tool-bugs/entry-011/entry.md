@@ -58,13 +58,6 @@ This either crashes or corrupts almost all Java reverse-engineering tools due to
 
 JD parses the code attribute incorrectly leading to a decompile fail.
 
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Decompiler Inaccuracy: 5  
-Total score: 0.67  
-
 #### Patch Date
 
 N/A
@@ -72,13 +65,6 @@ N/A
 ## Procyon
 
 Procyon parses the code attribute incorrectly leading to a decompile fail.
-
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Decompiler Inaccuracy: 5  
-Total score: 0.67  
 
 #### Patch Date
 
@@ -88,13 +74,6 @@ N/A
 
 FernFlower parses the code attribute incorrectly leading to a decompile fail.
 
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Decompiler Inaccuracy: 5  
-Total score: 0.67  
-
 #### Patch Date
 
 N/A
@@ -102,13 +81,6 @@ N/A
 ## ObjectWeb ASM
 
 ASM parses and writes the code attribute incorrectly leading to a disassembly fail and an incorrectly written class.
-
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
 
 #### Patch Date
 
@@ -118,13 +90,6 @@ N/A
 
 Javassist parses and writes the code attribute incorrectly leading to a disassembly fail and an incorrectly written class.
 
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
-
 #### Patch Date
 
 N/A
@@ -132,13 +97,6 @@ N/A
 ## BCEL
 
 BCEL parses and writes the code attribute incorrectly leading to a disassembly fail and an incorrectly written class.
-
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
 
 #### Patch Date
 
@@ -148,13 +106,6 @@ N/A
 
 BCV will either represent the class incorrectly or crash due to its reliance on ASM.
 
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
-
 #### Patch Date
 
 2019-06-14
@@ -162,13 +113,6 @@ Total score: 0.67
 ## JByteEdit
 
 JBE will either represent the class incorrectly or crash due to its reliance on ASM.
-
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
 
 #### Patch Date
 
@@ -178,13 +122,6 @@ N/A
 
 JBEB will either represent the class incorrectly or crash due to its reliance on ASM.
 
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
-
 #### Patch Date
 
 N/A
@@ -192,13 +129,6 @@ N/A
 ## Helios
 
 Helios will either represent the class incorrectly or crash due to its reliance on ASM.
-
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
 
 #### Patch Date
 
@@ -208,13 +138,6 @@ N/A
 
 java-deobfuscator will either represent the class incorrectly or crash due to its reliance on ASM.
 
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
-
 #### Patch Date
 
 N/A
@@ -222,13 +145,6 @@ N/A
 ## Recaf
 
 Recaf will either represent the class incorrectly or crash due to its reliance on ASM.
-
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
 
 #### Patch Date
 
@@ -238,27 +154,13 @@ N/A
 
 DirtyJOE parses and writes the code attribute incorrectly leading to a disassembly fail and an incorrectly written class.
 
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
-
 #### Patch Date
 
 N/A
 
 ## radare2
 
-radare2 parses the code attribute incorrectly leading to a disassembly fail..
-
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
+radare2 parses the code attribute incorrectly leading to a disassembly fail.
 
 #### Patch Date
 
@@ -267,13 +169,6 @@ N/A
 ## Ghidra
 
 Ghidra parses the code attribute incorrectly leading to a disassembly fail.
-
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
 
 #### Patch Date
 
@@ -284,13 +179,6 @@ N/A
 Javap parses code attribute incorrectly leading to a disassembly fail.
 
 https://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8232598
-
-#### Scoring
-
-Consistency: 10  
-Practicality: 5  
-Disassembler Inaccuracy: 5  
-Total score: 0.67  
 
 #### Patch Date
 
