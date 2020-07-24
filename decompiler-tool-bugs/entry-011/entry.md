@@ -148,7 +148,7 @@ Recaf will either represent the class incorrectly or crash due to its reliance o
 
 #### Patch Date
 
-N/A
+2020-07-24
 
 ## dirtyJOE
 
