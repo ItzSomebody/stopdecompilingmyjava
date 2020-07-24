@@ -100,4 +100,4 @@ Provides links specific to tools.
 
 ## [Recaf](https://github.com/Col-E/Recaf)
 
-[entry-011](decompiler-tool-bugs/entry-011/entry.md)
+[entry-011](decompiler-tool-bugs/entry-011/entry.md)  (PATCHED)
