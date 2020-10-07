@@ -50,6 +50,12 @@ fun main() {
 	val bytes = cw.toByteArray()
 	File("Test.class").writeBytes(bytes)
 }
+
+private class DummyAttribute(name: String, bytes: ByteArray = ByteArray(Random.nextInt(2))): Attribute(name) {
+	init {
+		content = bytes
+	}
+}
 ```
 ```Bash
 $ java Test
