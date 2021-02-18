@@ -64,3 +64,31 @@ hi
 
 ## History
 I've been using this exploit in my obfuscator Binscure ever since I discovered it in March this year. Since its now found its way into many other obfuscators I am publishing this writeup.
+
+## JByteMod / JByteMod Reborn / JByteMod Remastered
+JByteMod won't be able to load the class with following log: 
+
+```
+[01:05:36] [INFO] 1 files to load!
+[01:05:36] [INFO] Successfully loaded file!
+[01:05:36] [INFO] Building tree..
+[01:05:36] [INFO] Tree refreshed.
+[01:05:36] [INFO] Loaded classes in 143ms, bypassed 1 files because I can't load them. (Include 1 junk classes.)
+```
+
+#### Patch Date
+N/A
+
+##  JByteMod Remastered
+JByteMod-Remastered won't be able to load the class with following log: 
+
+```
+[01:05:36] [INFO] 1 files to load!
+[01:05:36] [INFO] Successfully loaded file!
+[01:05:36] [INFO] Building tree..
+[01:05:36] [INFO] Tree refreshed.
+[01:05:36] [INFO] Loaded classes in 143ms, bypassed 1 files because I can't load them. (Include 1 junk classes.)
+```
+
+#### Patch Date
+2020-02-18
