@@ -65,7 +65,7 @@ hi
 ## History
 I've been using this exploit in my obfuscator Binscure ever since I discovered it in March this year. Since its now found its way into many other obfuscators I am publishing this writeup.
 
-##JByteMod-Remastered
+## JByteMod-Remastered
 
 #### Patch Date
 18/02/2021
